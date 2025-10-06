@@ -1,4 +1,4 @@
-import definePlugin from "vencord-plugin-types";
+import definePlugin from "@utils/types";
 import { findByProps } from "@webpack";
 import { showToast } from "@toasts";
 
