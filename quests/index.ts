@@ -1,6 +1,6 @@
 import definePlugin from "@utils/types";
 import { findByProps } from "@webpack";
-import { showToast } from "@toasts";
+import { showToast } from "@webpack/common";
 
 // Type definitions
 interface Quest {
